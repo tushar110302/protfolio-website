@@ -1,6 +1,6 @@
 import React from 'react'
 import { HERO_CONTENT } from '../constants'
-import profilePhoto from '../assets/kevinRushProfile.png'
+import profilePhoto from '../assets/hero-section.png'
 import { motion } from "motion/react"
 
 function Hero() {
@@ -62,7 +62,7 @@ function Hero() {
                 transition={{duration: 1, delay:0.5}}
                 className='w-full lg:w-1/2 lg:p-8'>
                 <div className='flex justify-center'>
-                    <img src={profilePhoto} />
+                    <img src={profilePhoto}/>
                 </div>
             </motion.div>
         </div>

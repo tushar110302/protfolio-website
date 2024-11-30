@@ -31,21 +31,21 @@ function Technologies() {
                 animate={{y: [-10, 10]}}
                 transition={{duration: 3, ease: "linear", repeat: Infinity, repeatType: "reverse"}}
                 className='rounded-2xl border-4 p-4 border-neutral-800'>
-                <RiNodejsFill className='text-7xl text-green-500'/>
+                <RiNodejsFill className='text-7xl text-green-400'/>
             </motion.div>
             <motion.div 
                 initial={{y: -10}}
                 animate={{y: [-10, 10]}}
                 transition={{duration: 2.5, ease: "linear", repeat: Infinity, repeatType: "reverse"}}
                 className='rounded-2xl border-4 p-4 border-neutral-800'>
-                <RiTailwindCssFill className='text-7xl text-cyan-400'/>
+                <RiTailwindCssFill className='text-7xl text-green-300'/>
             </motion.div>
             <motion.div 
                 initial={{y: -10}}
                 animate={{y: [-10, 10]}}
                 transition={{duration: 13, ease: "linear", repeat: Infinity, repeatType: "reverse"}}
                 className='rounded-2xl border-4 p-4 border-neutral-800'>
-                <SiExpress className='text-7xl text-cyan-400'/>
+                <SiExpress className='text-7xl text-white'/>
             </motion.div>
             <motion.div 
                 initial={{y: -10}}
@@ -73,7 +73,7 @@ function Technologies() {
                 animate={{y: [-10, 10]}}
                 transition={{duration: 3, ease: "linear", repeat: Infinity, repeatType: "reverse"}}
                 className='rounded-2xl border-4 p-4 border-neutral-800'>
-                <VscVscode className='text-7xl text-blue-500'/>
+                <VscVscode className='text-7xl text-sky-600'/>
             </motion.div>
 
         </motion.div>
