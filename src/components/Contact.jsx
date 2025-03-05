@@ -22,7 +22,7 @@ function Contact() {
             whileInView={{opacity:1, y:0}}
             transition={{duration: 0.7}}
             className='w-full text-center p-2 mb-6'>
-            <a href='https://drive.google.com/file/d/1jcbM4HrP_1F1SDB4h13X8Z8CTLbmWUef/view?usp=sharing' target='_blank'>
+            <a href='https://drive.google.com/file/d/1wG831LBWBHET-WhNTKTNScL4wPwHOLxO/view?usp=drive_link' target='_blank'>
             <button type="button" className="text-white bg-gradient-to-r from-blue-500 via-blue-600 to-blue-700 transition-all hover:scale-110 focus:ring-4 focus:outline-none focus:ring-blue-300 inline-flex items-center dark:focus:ring-blue-800 font-semibold rounded-full text-lg px-7 py-4 text-center me-2">
                 <svg class="w-6 h-6 text-gray-800 dark:text-white me-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 24 24">
                 <path fill-rule="evenodd" d="M9 2.221V7H4.221a2 2 0 0 1 .365-.5L8.5 2.586A2 2 0 0 1 9 2.22ZM11 2v5a2 2 0 0 1-2 2H4v11a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2h-7Z" clip-rule="evenodd"/></svg>
